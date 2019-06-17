@@ -7,7 +7,25 @@
 		<key>weatherApi.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E525F94122B71E2000F09F40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E525F95822B71E2100F09F40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E525F96322B71E2100F09F40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

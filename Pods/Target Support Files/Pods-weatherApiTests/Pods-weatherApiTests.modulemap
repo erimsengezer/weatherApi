@@ -1,0 +1,6 @@
+framework module Pods_weatherApiTests {
+  umbrella header "Pods-weatherApiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
